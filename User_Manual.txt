@@ -1,0 +1,26 @@
+
+	██╗  ███████████████████████╗ ██████╗ ████████╗  ███████╗██████╗ 
+	██║  ████╔════╚══██╔══██╔══████╔═█████████╔══██╗ ╚════████╔════╝ 
+	██████████████╗  ██║  ██████╔██║██╔██╚████║  ███████╗██╔███████╗ 
+	╚════██╚════██║  ██║  ██╔══██████╔╝██║████║  ██╚════██╔╝██╔═══██╗
+	     █████████║  ██║  ██║  ██╚██████╔╝████████╔╝    ██║ ╚██████╔╝
+	     ╚═╚══════╝  ╚═╝  ╚═╝  ╚═╝╚═════╝ ╚═╚═════╝     ╚═╝  ╚═════╝
+		                                                                            
+Version: Release 1.02
+------------------------------USER MANUAL---------------------------------------
+Avoid the asteroids to survive as long as possible. Use the power-ups to your
+advantage. In multiplayer some Power-Ups will affect the other player in a 
+bad way. Navigate the start menu with Up and Down and select with Return.
+
+Keymap player 1:
+Accelerate......UP
+Turn left.......Left
+Turn right......Right
+Shoot...........L
+
+Keymap player 2:
+Accelerate......W
+Turn left.......A
+Turn right......D
+Shoot...........1
+
