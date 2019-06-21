@@ -8,7 +8,7 @@ The game is built buy invoking `make` from the repository root and the built bin
 * Mikael Henriksson - [github.com/miklhh](https://github.com/miklhh)
 * Arvid Larsson - [github.com/karvla](https://github.com/karvla)
 * Christoffer Hejdström
-* Max Jonsson [github.com/UsernameDeficiency](https://github.com/UsernameDeficiency)
+* Max Jonsson - [github.com/UsernameDeficiency](https://github.com/UsernameDeficiency)
 * Fredrik Jansson
 * Emilia Knudsen
 
