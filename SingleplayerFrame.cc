@@ -41,7 +41,6 @@ SingleplayerFrame::SingleplayerFrame()
             DEFAULT_KEY_PLAY1_SHOOT));
 }
 
-
 void SingleplayerFrame::spawnPowerUp()
 {
     int randomNumber = rand() % 4;

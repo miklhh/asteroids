@@ -6,8 +6,6 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
-volatile int i;
-
 // The main iteration loop. 
 void iterate_loop(Frame *&currentFrame, sf::RenderWindow &window)
 {
